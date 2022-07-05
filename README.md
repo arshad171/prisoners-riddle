@@ -1,6 +1,6 @@
-# Simulating the 100-Prizoners Riddle
+# Simulating the 100-Prisoners Riddle
 
-This project contains a simple Python script to simulate the solution to the seamingly impossible 100-Prizoners Riddle, and compares the success probabilities for "loop strategy" and "random strategy". (Refer the references for more details)
+This project contains a simple Python script to simulate the solution to the seamingly impossible 100-Prisoners Riddle, and compares the success probabilities for "loop strategy" and "random strategy". (Refer the references for more details)
 
 ## Running the Script
 
